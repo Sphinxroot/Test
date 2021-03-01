@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF -1, Link
+#EXTINF:-1,Link
 https://raw.githubusercontent.com/Sphinxroot/Test/main/main/Sections/url/a.m3u
 
 
