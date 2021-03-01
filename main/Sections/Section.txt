@@ -1,3 +1,3 @@
-﻿name= A url= "" logo= "https://i.imgur.com/wC87U6D.png"
+﻿name= A url= "https://raw.githubusercontent.com/Sphinxroot/Test/main/main/Sections/url/a.txt" logo= "https://i.imgur.com/wC87U6D.png"
 
 name= B url= "" logo= "https://i.imgur.com/wC87U6D.png"
