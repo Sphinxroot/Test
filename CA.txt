@@ -1,0 +1,1 @@
+﻿name= Canada url= "https://raw.githubusercontent.com/Sphinxroot/IPTVM3U/master/Canada.m3u" logo= "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Logo%20Pays/Ca.png"
