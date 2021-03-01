@@ -1,9 +1,13 @@
-#EXTm3U
+#EXTM3U
 
-name= blackflag.tv url= "https://svbell.videocdn.scaleengine.net/svbell-live/play/blackflagchann/playlist.m3u8" logo= "https://i.imgur.com/jILckhl.png"
+#EXTINF:-1,blackflag.tv 
+https://svbell.videocdn.scaleengine.net/svbell-live/play/blackflagchann/playlist.m3u8
 
-name= CBC (TT) url= "plugin://script.module.7of9-live/play/613/play.pvr" logo= "https://i.imgur.com/SGbZKbJ.png"
+#EXTINF:-1,CBC (TT)
+plugin://script.module.7of9-live/play/613/play.pvr
 
-name= GRACE Gorilla Livestream (YT) url= "plugin://plugin.video.youtube/play/?video_id=672cUSe69J0" logo= "https://i.imgur.com/h5NE8ZH.jpg"
+#EXTINF:-1,GRACE Gorilla Livestream (YT) 
+plugin://plugin.video.youtube/play/?video_id=672cUSe69J0
 
-name= 1net (DM) url= "plugin://plugin.video.dailymotion_com/?url=x7pctg0&mode=playLiveVideo" logo= "https://img.bfmtv.com/c/709/360/c1d/6563bed295ce02d829725b9899b31.png"
+#EXTINF:-1,1net (DM) 
+plugin://plugin.video.dailymotion_com/?url=x7pctg0&mode=playLiveVideo
