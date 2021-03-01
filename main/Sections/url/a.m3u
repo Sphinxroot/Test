@@ -1,4 +1,6 @@
-﻿name= blackflag.tv url= "https://svbell.videocdn.scaleengine.net/svbell-live/play/blackflagchann/playlist.m3u8" logo= "https://i.imgur.com/jILckhl.png"
+#EXTm3U
+
+name= blackflag.tv url= "https://svbell.videocdn.scaleengine.net/svbell-live/play/blackflagchann/playlist.m3u8" logo= "https://i.imgur.com/jILckhl.png"
 
 name= CBC (TT) url= "plugin://script.module.7of9-live/play/613/play.pvr" logo= "https://i.imgur.com/SGbZKbJ.png"
 
