@@ -1,1 +1,1 @@
-﻿name= Menu url= "https://raw.githubusercontent.com/Sphinxroot/Test/main/main/Sections/Section.txt" logo= "https://i.imgur.com/wC87U6D.png"
+﻿name= Menu url= "https://raw.githubusercontent.com/Sphinxroot/Test/main/main/Sections/Section.m3u" logo= "https://i.imgur.com/wC87U6D.png"
