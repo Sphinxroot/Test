@@ -1,3 +1,20 @@
-﻿name= Fluxus url= "https://raw.githubusercontent.com/Sphinxroot/IPTVM3U/master/Fluxus.tv/Index.m3u" logo= "https://github.com/Sphinxroot/IPTVM3U/raw/master/Fluxus.tv/Images/Fluxus/FluxusTV_Playlists.png"
- 
-﻿name= IPTV.ORG url= "https://raw.githubusercontent.com/iptv-org/iptv/master/index.m3u" logo= "https://i.imgur.com/wC87U6D.png"
+[
+{
+	"url": "0.0.0.0", 
+	"logos": "", 
+	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Menu/FR.png", 
+	"name": "★★★★★★★★★★IPTV★★★★★★★★★★"
+},
+{
+	"url": "https://raw.githubusercontent.com/Sphinxroot/IPTVM3U/master/Fluxus.tv/Index.m3u", 
+	"logos": "", 
+	"image": "https://github.com/Sphinxroot/IPTVM3U/raw/master/Fluxus.tv/Images/Fluxus/FluxusTV_Playlists.png", 
+	"name": "Fluxus TV"
+},
+{
+	"url": "https://raw.githubusercontent.com/iptv-org/iptv/master/index.m3u", 
+	"logos": "", 
+	"image": "https://i.imgur.com/wC87U6D.png", 
+	"name": "IPTV.ORG "
+},
+]
